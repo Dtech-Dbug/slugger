@@ -4,7 +4,7 @@ function slugger(title) {
   let split = title.split(" ");
   let lowerCasedSplit = [];
 
-  // lop through them and turn them to lowercase
+  // loop through them and turn them to lowercase
   for (let i = 0; i < split.length; i++) {
     lowerCasedSplit.push(split[i].toLowerCase());
   }

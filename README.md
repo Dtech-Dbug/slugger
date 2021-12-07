@@ -45,3 +45,8 @@ let slug = slugger("Open Source Module");
 console.log(slug);
 // open-source-module
 ```
+
+# feedbacks / complaints / issues?
+
+- [reach me anywhere from here](https://www.linkfolio-dee.netlify.app)
+- find the repo : [here](https://github.com/Dtech-Dbug/slugger)
